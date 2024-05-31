@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.br{
+    border-radius: 10px;
+}
+
+#custom-nav-link-color1{
+    color: #323f4b !important;
+    font-family: "Roboto";
+}
+
+#custom-nav-link-color2{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+
+#custom-nav-link-color3{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#custom-nav-link-color4{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.food-logo{
+    width: 100px;
+    height: 80px;
+}
+#bg{
+    background-color: white !important;
+}
+.banner-section-bg-container{
+    height: 100vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+}
+.banner-heading{
+    color: white;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.banner-para{
+    color: white;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 400;
+
+}
+
+.custom-button{
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: #d0b200;
+    border: none;
+    border-radius: 8px;
+    margin-right: 8px;
+}
+.bor{
+    border-style: solid;
+}
+.custom-button1{
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: transparent;
+    border-color: #d0b200;
+    color: #d0b200;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    margin-right: 8px;
+
+}
+.colorr{
+    color: brown !important;
+}
+.why-choose-section{
+    background-color: #f9fbfe;
+}
+.single-card{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: #e5eaf4;
+}
+.single-image{
+    height: 100px;
+    width: 90px;
+}
+
+.explore-menu-section{
+    background-color: white;
+}
+.menu-section-heading{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+
+}
+.menu-item-image{
+    border-radius: 15px;
+}
+.card-title{
+    color: gray;
+    font-family: "Roboto";
+    font-weight: 500;
+    margin-top: 20px;
+}
+.menu-link{
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.para {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.thanking-customers-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+    
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.followheading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.followicon {
+    background-color: #faf7e8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.mailid {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.icon {
+    font-size: 40px;
+}
